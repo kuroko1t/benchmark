@@ -2,6 +2,12 @@
 
 Decorator to measure the execution time of a function.
 
+# Install
+
+```
+pip install -e .
+```
+
 ## Example
 
 code eample
