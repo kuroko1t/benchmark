@@ -4,6 +4,7 @@ Decorator to measure the execution time of a function.
 
 ## Example
 
+code eample
 ``` python3
 import benchmark
 
@@ -16,6 +17,7 @@ def add(x, y):
 add(2, 3)
 ```
 
+result
 ```
 add:0.001[ms]
 ```
